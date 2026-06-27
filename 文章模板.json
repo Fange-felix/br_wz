@@ -1,0 +1,49 @@
+{
+  "article_id": "BR-XXX",
+  "industry": "请填写行业名称",
+  "status": "草稿",
+  "created_at": "YYYY-MM-DD",
+  "updated_at": "YYYY-MM-DD",
+  "imported_to_db": false,
+  "db_id": null,
+  "meta_info": {
+    "primary_keyword": "主关键词",
+    "secondary_keywords": [
+      "副关键词1",
+      "副关键词2",
+      "副关键词3"
+    ],
+    "search_intent": "搜索意图（如：商业询价型/信息查询型/导航型）",
+    "target_engine": "Baidu",
+    "word_count_target": "1500-2000字",
+    "title_tag": "SEO标题（≤30字符）",
+    "meta_description": "Meta描述（≤78字符）",
+    "url_slug": "url-slug-in-chinese-pinyin"
+  },
+  "content": {
+    "h1": "文章H1标题（含主关键词）",
+    "h2_sections": [
+      {
+        "h2": "一、第一个H2章节标题（含副关键词）",
+        "content": "章节内容正文，自然融入关键词，段落清晰，适当使用表格或列表。"
+      },
+      {
+        "h2": "二、第二个H2章节标题",
+        "content": "继续撰写..."
+      }
+    ]
+  },
+  "seo_checklist": {
+    "title_length_chars": 0,
+    "meta_description_length_chars": 0,
+    "primary_keyword_in_h1": false,
+    "primary_keyword_in_first_paragraph": false,
+    "primary_keyword_density": "",
+    "h2_count": 0,
+    "contains_table": false,
+    "mobile_optimized": true,
+    "original_content": true,
+    "simplified_chinese": true
+  },
+  "notes": "文章备注（如：需补充案例图、需内链到XX文章等）"
+}
