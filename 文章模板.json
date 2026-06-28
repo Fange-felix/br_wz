@@ -1,6 +1,7 @@
 {
   "article_id": "BR-XXX",
   "industry": "请填写行业名称",
+  "classid": 15,
   "status": "草稿",
   "created_at": "YYYY-MM-DD",
   "updated_at": "YYYY-MM-DD",
@@ -22,6 +23,7 @@
   },
   "content": {
     "h1": "文章H1标题（含主关键词）",
+    "word_count": 0,
     "h2_sections": [
       {
         "h2": "一、第一个H2章节标题（含副关键词）",
@@ -31,7 +33,12 @@
         "h2": "二、第二个H2章节标题",
         "content": "继续撰写..."
       }
-    ]
+    ],
+    "html_content": "<h2>一、第一个H2章节标题</h2><p>正文HTML...</p>"
+  },
+  "images": {
+    "title_pic": "",
+    "content_images": []
   },
   "seo_checklist": {
     "title_length_chars": 0,
