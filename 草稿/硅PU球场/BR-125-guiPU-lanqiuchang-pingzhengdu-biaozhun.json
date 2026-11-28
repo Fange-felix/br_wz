@@ -2,7 +2,8 @@
   "article_id": "BR-125",
   "industry": "硅PU球场",
   "classid": 15,
-  "status": "草稿",
+  "status": "已发布",
+  "imported_to_db": true,
   "author": "博锐技术团队",
   "date_published": "2026-11-26",
   "schema_type": [
